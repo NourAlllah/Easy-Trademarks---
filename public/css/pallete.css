@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+:root {
+    --blue: #2310d4;
+    --blue-shade-1: #3160ff;
+    --blue-shade-2: #dfe7ff;
+    --blue-shade-3: #181c34;
+    --white: #fff;
+    --grey-dark: #555;
+    --grey:#f4f4f4;
+}
+
+* {
+    box-sizing: border-box;
+}
+
