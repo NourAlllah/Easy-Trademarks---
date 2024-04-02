@@ -31,7 +31,7 @@ Bootstrap Libraries: Houses Bootstrap files utilized for responsive design compo
 How to Run the Project:
 
 1- Clone the repository to your local machine using the command:
-git clone [repository-url]
+git clone https://github.com/NourAlllah/Easy-Trademarks---
 
 2- Navigate to the project directory:
 cd project-directory-name
@@ -39,7 +39,13 @@ cd project-directory-name
 3- Install Laravel dependencies:
 composer install
 
-3-Serve the Laravel application:
+4- create .env file:
+cp .env.example .env
+
+5- create project key:
+php artisan key:generate
+
+6- Serve the Laravel application:
 php artisan serve
 
 Access the home page in your web browser at http://localhost:8000.
