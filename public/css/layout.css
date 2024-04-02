@@ -10,6 +10,11 @@
     background-color: var(--white) !important;
 }
 
+.navbar-collapse{
+    padding: 20px;
+    background-color: white;
+}
+
 .logo_site_img{
     height: 30px;
 }
